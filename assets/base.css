@@ -2883,3 +2883,8 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+.shopify-policy__container {
+  max-width: 80% !important;
+  padding: 0 !important;
+}
