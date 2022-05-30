@@ -108,7 +108,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Free US delivery on orders over $80 (Most products \/ locations)",
               "color_scheme": "background-1",
               "link": ""
             }
