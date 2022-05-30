@@ -164,8 +164,8 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Free US Delivery*",
+            "text": "<p>Spend over $80 and get free delivery. (excludes a few products \/ remote areas).<\/p>",
             "link_label": "",
             "link": ""
           }
