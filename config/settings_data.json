@@ -100,6 +100,7 @@
     "show_vendor": true,
     "show_cart_note": true,
     "cart_drawer_collection": "best-sellers",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Ant_Logo_Only_Font.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
