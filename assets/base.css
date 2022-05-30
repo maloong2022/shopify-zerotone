@@ -2884,7 +2884,9 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 
+@media only screen and (min-width: 750px) {
 .shopify-policy__container {
-  max-width: 80% !important;
+  max-width: 1000px !important;
   padding: 0 !important;
+}
 }
