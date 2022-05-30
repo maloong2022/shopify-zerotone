@@ -197,6 +197,12 @@
           </slider-component>
         {%- endif -%}
       </media-gallery>
+      
+      {%- if product.description != blank -%}
+              <div class="product__description rte quick-add-hidden">
+                {{ product.description }}
+              </div>
+            {%- endif -%}
     </div>
     <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %}">
       <div id="ProductInfo-{{ section.id }}" class="product__info-container{% if section.settings.enable_sticky_info %} product__info-container--sticky{% endif %}">
@@ -240,12 +246,12 @@
                 {{ form | payment_terms }}
               {%- endform -%}
             </div>
-          {%- when 'description' -%}
+          /* {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte quick-add-hidden">
                 {{ product.description }}
               </div>
-            {%- endif -%}
+            {%- endif -%} */
           {%- when 'custom_liquid' -%}
             {{ block.settings.custom_liquid }}
           {%- when 'collapsible_tab' -%}
