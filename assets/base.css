@@ -2886,7 +2886,7 @@ details-disclosure > details {
 
 @media only screen and (min-width: 750px) {
 .shopify-policy__container {
-  max-width: 1000px !important;
+  max-width: 800px !important;
   padding: 0 !important;
 }
 }
