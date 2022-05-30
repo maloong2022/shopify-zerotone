@@ -186,12 +186,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "9106b5c3-8794-4d1f-bee4-976f4187e22f": {
+          "type": "column",
+          "settings": {
+            "title": "Secure Payments",
+            "text": "<p>Pay securely using credit \/ debit card or by Paypal.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "9106b5c3-8794-4d1f-bee4-976f4187e22f"
       ],
       "settings": {
         "title": "",
