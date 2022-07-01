@@ -206,8 +206,8 @@
       
     
     </div>
-    <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %} product__info-container--sticky" >
-      <div id="ProductInfo-{{ section.id }}" class="product__info-container{% if section.settings.enable_sticky_info %} product__info-container--sticky{% endif %}">
+    <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %}" {% if section.settings.enable_sticky_info %} style="height: 100vh;position: sticky;top:3rem;" {% endif %}    >
+      <div id="ProductInfo-{{ section.id }}" class="product__info-container">
         {%- assign product_form_id = 'product-form-' | append: section.id -%}
 
         {%- for block in section.blocks -%}
