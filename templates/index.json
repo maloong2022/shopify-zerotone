@@ -48,6 +48,78 @@
         "show_text_below": false
       }
     },
+    "1657178177e719155e": {
+      "type": "featured-product",
+      "blocks": {
+        "1657178177ec31f4c9-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1657178177ec31f4c9-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1657178177ec31f4c9-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1657178177ec31f4c9-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1657178177ec31f4c9-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1657178177ec31f4c9-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1657178177ec31f4c9-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1657178177ec31f4c9-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1657178177ec31f4c9-0",
+        "1657178177ec31f4c9-1",
+        "1657178177ec31f4c9-2",
+        "1657178177ec31f4c9-3",
+        "1657178177ec31f4c9-4",
+        "1657178177ec31f4c9-5",
+        "1657178177ec31f4c9-6",
+        "1657178177ec31f4c9-7"
+      ],
+      "settings": {
+        "product": "five-in-one-intelligent-camping-lamp",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "disabled": true,
@@ -77,33 +149,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": true,
-        "description_style": "subtitle",
-        "collection": "",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 36
       }
     },
     "collage": {
@@ -225,8 +270,8 @@
   },
   "order": [
     "image_banner",
+    "1657178177e719155e",
     "rich_text",
-    "featured_collection",
     "collage",
     "video",
     "multicolumn"
