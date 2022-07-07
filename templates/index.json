@@ -382,6 +382,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16571786099e4e7d1e": {
+      "type": "image-with-text",
+      "blocks": {
+        "165717860914d8fa8e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "165717860914d8fa8e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "165717860914d8fa8e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/three-in-one-intelligent-camping-lamp"
+          }
+        }
+      },
+      "block_order": [
+        "165717860914d8fa8e-0",
+        "165717860914d8fa8e-1",
+        "165717860914d8fa8e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_05.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -392,6 +436,7 @@
     "collage",
     "video",
     "multicolumn",
-    "1657178376d0e9c82a"
+    "1657178376d0e9c82a",
+    "16571786099e4e7d1e"
   ]
 }
