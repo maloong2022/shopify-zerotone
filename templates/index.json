@@ -48,297 +48,6 @@
         "show_text_below": false
       }
     },
-    "1657178177e719155e": {
-      "type": "featured-product",
-      "blocks": {
-        "1657178177ec31f4c9-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1657178177ec31f4c9-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "1657178177ec31f4c9-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1657178177ec31f4c9-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1657178177ec31f4c9-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1657178177ec31f4c9-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1657178177ec31f4c9-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1657178177ec31f4c9-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1657178177ec31f4c9-0",
-        "1657178177ec31f4c9-1",
-        "1657178177ec31f4c9-2",
-        "1657178177ec31f4c9-3",
-        "1657178177ec31f4c9-4",
-        "1657178177ec31f4c9-5",
-        "1657178177ec31f4c9-6",
-        "1657178177ec31f4c9-7"
-      ],
-      "settings": {
-        "product": "five-in-one-intelligent-camping-lamp",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1657178281f9afa442": {
-      "type": "featured-product",
-      "blocks": {
-        "16571782816f2168d8-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "16571782816f2168d8-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "16571782816f2168d8-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16571782816f2168d8-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16571782816f2168d8-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16571782816f2168d8-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16571782816f2168d8-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16571782816f2168d8-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16571782816f2168d8-0",
-        "16571782816f2168d8-1",
-        "16571782816f2168d8-2",
-        "16571782816f2168d8-3",
-        "16571782816f2168d8-4",
-        "16571782816f2168d8-5",
-        "16571782816f2168d8-6",
-        "16571782816f2168d8-7"
-      ],
-      "settings": {
-        "product": "three-in-one-intelligent-camping-lamp",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Fast Delivery*",
-            "text": "<p>About two weeks of transportation time. (excludes a few products \/ remote areas).<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "No Quibble Refunds",
-            "text": "<p>If you don't like the product for whatever reason, send it back (packaged and unused) for a full refund.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Product Support",
-            "text": "<p>Free Email and telephone support on all our products.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "9106b5c3-8794-4d1f-bee4-976f4187e22f": {
-          "type": "column",
-          "settings": {
-            "title": "Secure Payments",
-            "text": "<p>Pay securely using credit \/ debit card or by Paypal.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "9106b5c3-8794-4d1f-bee4-976f4187e22f"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1657178376d0e9c82a": {
       "type": "image-with-text",
       "blocks": {
@@ -426,17 +135,75 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Fast Delivery*",
+            "text": "<p>About two weeks of transportation time. (excludes a few products \/ remote areas).<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "No Quibble Refunds",
+            "text": "<p>If you don't like the product for whatever reason, send it back (packaged and unused) for a full refund.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Product Support",
+            "text": "<p>Free Email and telephone support on all our products.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9106b5c3-8794-4d1f-bee4-976f4187e22f": {
+          "type": "column",
+          "settings": {
+            "title": "Secure Payments",
+            "text": "<p>Pay securely using credit \/ debit card or by Paypal.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "9106b5c3-8794-4d1f-bee4-976f4187e22f"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "1657178177e719155e",
-    "1657178281f9afa442",
-    "rich_text",
-    "collage",
-    "video",
-    "multicolumn",
     "1657178376d0e9c82a",
-    "16571786099e4e7d1e"
+    "16571786099e4e7d1e",
+    "multicolumn"
   ]
 }
