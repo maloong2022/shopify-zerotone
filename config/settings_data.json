@@ -145,8 +145,8 @@
           "17f38560-d3bd-41fc-bfe5-7b7c6b9be0b2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Ant_might_logo.png",
-              "image_width": 130,
+              "image": "shopify:\/\/shop_images\/apple-touch-icon.png",
+              "image_width": 120,
               "alignment": ""
             }
           },
@@ -168,7 +168,7 @@
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Electronic components are made of high-quality materials to improve people's lives in small but mighty ways.<\/p>"
+              "subtext": "<p>Camping lanterns are made of high-quality materials to improve people's camping lives in small but mighty ways.<\/p>"
             }
           }
         },
