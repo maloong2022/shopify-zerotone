@@ -102,6 +102,8 @@
     "show_cart_note": true,
     "cart_drawer_collection": "best-sellers",
     "checkout_logo_image": "shopify:\/\/shop_images\/Ant_Logo_Only_Font.png",
+    "checkout_accent_color": "#3eb59d",
+    "checkout_button_color": "#3eb59d",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
