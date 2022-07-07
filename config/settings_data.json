@@ -146,7 +146,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/apple-touch-icon.png",
-              "image_width": 180,
+              "image_width": 150,
               "alignment": ""
             }
           },
