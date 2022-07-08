@@ -1,7 +1,7 @@
 {{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
  {%- style -%}
-	#shop-all::hover{
-scale(1.1);}
+	a#shop-all:hover{
+scale:1.1;}
 {%- endstyle -%}
 {%- if section.settings.adapt_height_first_image and section.settings.image != blank -%}
   {%- style -%}
