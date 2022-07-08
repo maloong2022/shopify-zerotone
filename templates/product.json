@@ -94,11 +94,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "fc1f115d-47f4-4f96-a629-c8992846ab88": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -114,8 +109,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "fc1f115d-47f4-4f96-a629-c8992846ab88"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
