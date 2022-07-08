@@ -6,15 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Small Body，Mighty Power",
+            "heading": "Small But Mighty",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Electronic components made of high quality materials to improve people's lives in small but mighty ways.",
-            "text_style": "body"
+            "text": "Camping lanterns are made of high-quality materials to improve people's camping lives in small but mighty ways.",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "button": {
@@ -22,7 +22,7 @@
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1.png",
+        "image": "shopify:\/\/shop_images\/861a5491391138532167d2e370a350b7.png",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
