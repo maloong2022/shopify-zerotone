@@ -48,11 +48,11 @@
               endif
 
               if section.settings.media_size == 'large'
-                assign media_width = 0.65
+                assign media_width = 0.75
               elsif section.settings.media_size == 'medium'
-                assign media_width = 0.55
+                assign media_width = 0.75
               elsif section.settings.media_size == 'small'
-                assign media_width = 0.45
+                assign media_width = 0.75
               endif
             -%}
             {%- if product.selected_or_first_available_variant.featured_media != null -%}
