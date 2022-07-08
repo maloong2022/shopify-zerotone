@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Small But Mighty",
+            "heading": "Let's go camping!",
             "heading_size": "h0"
           }
         },
@@ -14,7 +14,7 @@
           "type": "text",
           "settings": {
             "text": "Camping lanterns are made of high-quality materials to improve people's camping lives in small but mighty ways.",
-            "text_style": "caption-with-letter-spacing"
+            "text_style": "subtitle"
           }
         },
         "button": {
