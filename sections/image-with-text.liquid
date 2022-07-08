@@ -1,4 +1,8 @@
 {{ 'component-image-with-text.css' | asset_url | stylesheet_tag }}
+ {%- style -%}
+	a:hover{
+scale:1.1;}
+{%- endstyle -%}
 
 {%- style -%}
   .section-{{ section.id }}-padding {
