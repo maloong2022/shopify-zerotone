@@ -128,7 +128,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/android-chrome-512x512_985427c3-ea7f-4534-801a-a530afae43f8.png",
-          "logo_width": 60,
+          "logo_width": 50,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "mega",
