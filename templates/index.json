@@ -51,6 +51,7 @@
     },
     "1657970561725c650d": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Best Sellers",
         "heading_size": "h1",
