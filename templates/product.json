@@ -27,6 +27,11 @@
           "settings": {
           }
         },
+        "judgeme_preview_badge_product_page_0ca79261": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -94,11 +99,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "judgeme_preview_badge_product_page_0ca79261": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -126,6 +126,22 @@
         "enable_video_looping": true,
         "padding_top": 12,
         "padding_bottom": 12
+      }
+    },
+    "judgeme_section_review_widget_a76b": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_5155e1d8": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_5155e1d8"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "image-with-text": {
@@ -238,26 +254,10 @@
         "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": true,
-        "show_rating": true,
+        "show_rating": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
-      }
-    },
-    "judgeme_section_review_widget_a76b": {
-      "type": "apps",
-      "blocks": {
-        "judgeme_review_widget_5155e1d8": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judgeme_review_widget_5155e1d8"
-      ],
-      "settings": {
-        "include_margins": true
       }
     }
   },
