@@ -14,11 +14,11 @@
 }
 
 .article-template__hero-small {
-  height: 11rem;
+  height: 15rem;
 }
 
 .article-template__hero-medium {
-  height: 15rem;
+  height: 22rem;
 }
 
 .article-template__hero-large {
@@ -31,7 +31,7 @@
   }
 
   .article-template__hero-medium {
-    height: 33rem;
+    height: 44rem;
   }
 
   .article-template__hero-large {
