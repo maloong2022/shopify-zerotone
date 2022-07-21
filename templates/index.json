@@ -164,6 +164,50 @@
         "padding_bottom": 36
       }
     },
+    "165838846881a114c5": {
+      "type": "image-with-text",
+      "blocks": {
+        "16583884688e672967-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LED rechargeableatmosphere camping lantern",
+            "heading_size": "h2"
+          }
+        },
+        "16583884688e672967-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rechargeable, stable<br\/>base, ring handle, five lighting modes including SOS, one USB port, the LED rechargeable<br\/>atmosphere camping lantern integrates the excellent quality of all camping<br\/>lights，worth a shot!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16583884688e672967-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy me",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16583884688e672967-0",
+        "16583884688e672967-1",
+        "16583884688e672967-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01_fbbc2080-28ab-4991-b505-abc4207a3b77.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1657261948c38aab41": {
       "type": "image-with-text",
       "blocks": {
@@ -347,6 +391,7 @@
     "1657970561725c650d",
     "1657178376d0e9c82a",
     "16571786099e4e7d1e",
+    "165838846881a114c5",
     "1657261948c38aab41",
     "16581609592b23fafd",
     "165816098097093c95",
